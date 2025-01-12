@@ -3,7 +3,7 @@
 
 - 🔭 I’m Building, Do reah out [Project 1000](https://www.patreon.com/c/project1000)
 
-- 🌱 I’m currently learning **Node, Django**
+- 🌱 I’m currently learning **Node, Laravel**
 
 - 👯 I’m looking to collaborate on **Food Hub**
 
