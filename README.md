@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm adekemsontersamuel</h1>
+<h1 align="center">Hi 👋, I'm Adeke Msonter Samuel</h1>
 <h3 align="center">A passionate Software developer from NIgeria</h3>
 
 - 🔭 I’m Building, Do reah out [Project 1000](https://www.patreon.com/c/project1000)
@@ -11,7 +11,7 @@
 
 - 👨‍💻 you can know more about me at [https://adekemsontersamuel-beta.vercel.app](https://adekemsontersamuel-beta.vercel.app)
 
-- 💬 Ask me about **Javascript,PHP, Python**
+- 💬 Ask me about **Javascript,PHP, Python, Cloud services(AWS)**
 
 - 📫 How to reach me **adekemsontersamuel@gmail.com**
 
