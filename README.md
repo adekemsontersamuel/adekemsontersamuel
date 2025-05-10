@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **NPMS**
 
 - 👨‍💻 you can know more about me at [https://adekemsontersamuel-beta.vercel.app](https://adekemsontersamuel-beta.vercel.app)
-- 
+  
 - 📫 How to reach me **adekemsontersamuel@gmail.com**
 
 - ⚡  fact **I am a pioneer of Africa's Tech Industry**
