@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NPMS**
 
-- 👨‍💻 you can know more about me at adekems.vercel.app
+- 👨‍💻 you can know more about me at https://adekems.vercel.app/
   
 - 📫 How to reach me **adekemsontersamuel@gmail.com**
 
